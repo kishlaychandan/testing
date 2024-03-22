@@ -1,0 +1,45 @@
+.x{
+    width: 700px;
+    height: 500px;
+    background-color: pink;
+    background-image: url(https://img.freepik.com/free-photo/autumn-leaf-falling-revealing-intricate-leaf-vein-generated-by-ai_188544-9869.jpg?w=900&t=st=1710865138~exp=1710865738~hmac=d851506af2d6bdb955d7e15e0068c2bcd481078d7af73a9e1c6034e8f958abb1);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-origin:border-bottom: 
+}
+.y{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    margin: 20px 0px 0px 0px;
+    padding: 30px;
+    border: 4px solid black;
+    background-clip: content-box;
+}
+.xy{
+    width:20px;
+    background-color: orangered;
+}
+.xy p{
+    background-color: red;
+    width: 2%;
+}
+/* body{
+    display: flex;
+    flex-direction: row-reverse;
+} */
+
+/* textdecoration */
+/* text-decoration : underline, overline,line-through */
+/* font-style:  italic, bold.. ;*/
+/* font-weight:100; */
+/* text-align: center
+verticle-align:center */
+/* line0height:200px; distance between two line or paragraph */
+/* text-tramsfom:capitalize/lowecase/uppercase/none */
+/* font-family: roman/Arial/serif etc.. */
+/* justify-content:center; for horizontally
+align-items:center; for vertically */
+/* display:flex; */
+/* felx-direction: row/coloumn; */
